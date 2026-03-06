@@ -364,6 +364,11 @@ li{
           scroll-margin-top: 22px;
     }
 
+    #skill h5{
+        font-size: 2rem;
+        margin-top: 15px;
+    }
+
     #skills{
         height: 100vh;
         width: 100%;
@@ -375,6 +380,7 @@ li{
 .box-container{
     flex-direction: column;
     align-items: center;
+    gap: 5px;
 }
 
 .box1, .box2{
@@ -705,4 +711,5 @@ color: #BDC3C7;
     text-align: center;
     margin: 1opx;
 }
+
 }
