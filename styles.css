@@ -438,7 +438,7 @@ span{
 }
 
 .home-content h1{
-    font-size: 7rem;
+    font-size: 6rem;
 }
 .home-content h3{
 font-size: 3.5rem;
@@ -719,5 +719,6 @@ color: #BDC3C7;
     text-align: center;
     margin: 1opx;
 }
+
 
 }
